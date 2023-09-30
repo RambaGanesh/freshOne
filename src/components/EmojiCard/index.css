@@ -1,0 +1,20 @@
+.emoji-cards {
+  height: 150px;
+  width: 150px;
+  background-color: #9796f0;
+  border-radius: 10px;
+  margin: 5px;
+  border-color: lightgray;
+  border-style: solid;
+  border-width: 3px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.buttt {
+  background-color: transparent;
+  border-width: 0px;
+  outline: none;
+  cursor: pointer;
+}

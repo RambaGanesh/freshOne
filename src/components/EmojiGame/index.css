@@ -1,0 +1,21 @@
+.overall {
+  height: 120vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+}
+.body {
+  background-image: linear-gradient(to bottom, #6a59ff, #fbc7d4);
+  background-size: cover;
+  height: 120vh;
+  padding-top: 120px;
+  padding-bottom: 0px;
+}
+.un-order {
+  display: flex;
+  list-style-type: none;
+  flex-wrap: wrap;
+  margin-top: -80px;
+  margin-left: 230px;
+  margin-right: 230px;
+}
